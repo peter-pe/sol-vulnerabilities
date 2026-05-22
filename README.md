@@ -9,6 +9,3 @@ CVE-2025-63233, CVE-2025-63234, CVE-2025-63235, CVE-2025-63236, CVE-2025-63237
 - CVE-2025-63235 → CVE-2025-63235.md  
 - CVE-2025-63236 → CVE-2025-63236.md  
 - CVE-2025-63237 → CVE-2025-63237.md  
-
-Public Repository:
-https://github.com/peter-pe/sol-vulnerabilities
